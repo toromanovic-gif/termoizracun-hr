@@ -4,7 +4,7 @@
 Koristi javno dostupne klimatske podatke [DHMZ-a](https://meteo.hr/klima.php?section=klima_podaci&param=k1) za 20+ gradova u Hrvatskoj.
 
 🔗 **Live verzija:** [profesionalna-klimatizacija.github.io/termoizracun-hr](https://profesionalna-klimatizacija.github.io/termoizracun-hr/)  
-🏢 **Razvijač:** [Profesionalna klimatizacija, VRV sustavi d.o.o.](https://www.klimatizacija.pro) — Zagreb, Hrvatska
+🏢 **Razvijač:** [Profesionalna klimatizacija, VRV sustavi d.o.o.](https://klimatizacija.pro) — Zagreb, Hrvatska
 
 ---
 
@@ -107,7 +107,7 @@ MIT License — slobodno koristite, modificirajte i distribuirajte uz navođenje
 
 ```
 Copyright (c) 2026 Profesionalna klimatizacija, VRV sustavi d.o.o.
-https://www.klimatizacija.pro
+(https://klimatizacija.pro)
 ```
 
 Klimatski podaci DHMZ-a korišteni su pod [Otvorenom dozvolom RH](https://data.gov.hr/otvorena-dozvola).
@@ -120,7 +120,7 @@ Klimatski podaci DHMZ-a korišteni su pod [Otvorenom dozvolom RH](https://data.g
 Zagreb, Hrvatska  
 OIB: 42769573020
 
-🌐 Website: [www.klimatizacija.pro](https://www.klimatizacija.pro)  
+🌐 Website: [www.klimatizacija.pro](https://klimatizacija.pro)  
 📞 Tel: [099 208 33 88](tel:0992083388)  
 💬 WhatsApp: [wa.me/385992083388](https://wa.me/385992083388)
 
