@@ -1,0 +1,21 @@
+title: "Termoizračun HR — Kalkulator snage klima uređaja"
+description: "Besplatni open source kalkulator za izračun potrebne snage klima uređaja prema EN 12831 normi. Klimatski podaci DHMZ-a za 20+ gradova Hrvatske."
+url: "https://profesionalna-klimatizacija.github.io"
+baseurl: "/termoizracun-hr"
+lang: "hr"
+
+author:
+  name: "Profesionalna klimatizacija, VRV sustavi d.o.o."
+  url: "https://www.klimatizacija.pro"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+twitter:
+  card: summary
+
+# Isključi Jekyll processing za čisti HTML
+include:
+  - index.html
