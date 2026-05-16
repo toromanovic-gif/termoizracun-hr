@@ -6,7 +6,7 @@ lang: "hr"
 
 author:
   name: "Profesionalna klimatizacija, VRV sustavi d.o.o."
-  url: "https://www.klimatizacija.pro"
+  url: "https://klimatizacija.pro"
 
 plugins:
   - jekyll-seo-tag
